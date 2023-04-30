@@ -18,6 +18,14 @@
 
   
 
+:red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle:
+
+### :mortar_board::runner::red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle::red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :small_red_triangle: :red_circle:  :large_orange_diamond:  ###
+
+:red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :red_circle:  :large_orange_diamond: :small_red_triangle: :red_circle:  :large_orange_diamond: :small_red_triangle:
+
+
+
 **Professor:**  *Cassiano Peres*
 
 **Fonte:** https://github.com/cassianobrexbit/dio-live-dynamodb
