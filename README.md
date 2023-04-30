@@ -13,5 +13,11 @@
 ### :large_blue_diamond: SERVIÇOS UTILIZADOS
 
 - Amazon DynamoDB
+
 - Amazon CLI para execução em linha de comando
 
+  
+
+**Professor:**  *Cassiano Peres*
+
+**Fonte:** https://github.com/cassianobrexbit/dio-live-dynamodb
